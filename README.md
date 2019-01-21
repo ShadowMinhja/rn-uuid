@@ -29,7 +29,7 @@ npm install react-native-uuid
 ```
 
 ```javascript
-var uuid = require('react-native-uuid');
+var uuid = require('rn-uuid');
 ```
 
 Then create some ids ...
