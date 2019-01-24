@@ -1,6 +1,6 @@
-# node-uuid
+# rn-uuid
 
-Simple, fast generation of [RFC4122](http://www.ietf.org/rfc/rfc4122.txt) UUIDS.
+Simple, fast generation of [RFC4122](http://www.ietf.org/rfc/rfc4122.txt) UUIDS for React Native. Fork of uuid but without using Node standard libraries, which aren't supported by React Native.
 
 Features:
 
@@ -25,7 +25,7 @@ Install it in your browser:
 Or in node.js:
 
 ```
-npm install react-native-uuid
+npm install rn-uuid
 ```
 
 ```javascript
